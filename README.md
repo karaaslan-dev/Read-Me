@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karaaslan-dev&label=Profile%20views&color=0e75b6&style=flat" alt="karaaslan-dev" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karaaslan-dev" alt="karaaslan-dev" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://avatars.githubusercontent.com/u/158037925?v=4&size=64" alt="karaaslan-dev" /></a> </p>
 
 - 🔭 I’m currently working on **IT Departman at District Governorate**
 
