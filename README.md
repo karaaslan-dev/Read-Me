@@ -80,10 +80,7 @@
 
 ### 📊 GitHub Statistics & Contribution Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KULLANICI_ADIN&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KULLANICI_ADIN&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-</p>
+
 
 
 
@@ -94,9 +91,7 @@
 
 
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KULLANICI_ADIN&theme=tokyo-night" alt="Activity Graph" width="100%" />
-</p>
+
 
 ---
 
