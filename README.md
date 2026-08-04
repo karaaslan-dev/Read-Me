@@ -5,21 +5,18 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://avatars.githubusercontent.com/u/158037925?v=4&size=64" alt="karaaslan-dev" /></a> </p>
 
-- 🔭 I’m currently working on **IT Departman at District Governorate**
 
-- 🌱 I’m currently learning **computer programming and web development, Python, C#, and robotics coding, image processing and artificial intelligence basics, database management and object-oriented programming.**
 
-- 👯 I’m looking to collaborate on **open-source projects about web development and automation, software development, AI projects, and creative coding, educational projects, robotics, and design tools.**
+- 👯 I am looking to collaborate on **open-source projects about web development and automation, software development, AI projects, and creative coding, educational projects, robotics, and design tools.**
 
-- 🤝 I’m looking for help with **improving my skills in AI and machine learning.**
+- 🤝 I am looking for help with **improving my skills in AI and machine learning.**
 
-- 👨‍💻 All of my projects are available at [https://karaaslan.wuaze.com/](https://karaaslan.wuaze.com/)
+- 👨‍💻 All of my projects are available at [https://ekaraaslan.com/](https://ekaraaslan.com/)
 
 - 📝 I regularly write articles on [https://ekaraaslandev.blogspot.com/](https://ekaraaslandev.blogspot.com/)
 
-- 💬 Ask me about **software projects, design and volunteering,**
 
-- 📫 How to reach me **ekaraaslan.dev@gmail.com**
+- 📫 How to reach me **contact@ekaraaslan.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/ekaraaslan-bio/](https://www.linkedin.com/in/ekaraaslan-bio/)
 
