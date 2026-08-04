@@ -81,11 +81,21 @@
 ### 📊 GitHub Statistics & Contribution Activity
 
 <p align="center">
-  <img src="./github-metrics.svg" alt="GitHub Metrics & Languages" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KULLANICI_ADIN&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KULLANICI_ADIN&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 
+
+
 <p align="center">
-  <img src="./dist/github-snake-dark.svg" alt="Contribution Snake" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KULLANICI_ADIN&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
+</p>
+
+
+
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KULLANICI_ADIN&theme=tokyo-night" alt="Activity Graph" width="100%" />
 </p>
 
 ---
