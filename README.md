@@ -78,15 +78,14 @@
 
 ---
 
-### 📊 GitHub Statistics
+### 📊 GitHub Statistics & Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karaaslan-dev&show_icons=true&locale=en&theme=dark" alt="karaaslan-dev stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=karaaslan-dev&show_icons=true&locale=en&layout=compact&theme=dark" alt="karaaslan-dev top languages" height="170" />
+  <img src="./github-metrics.svg" alt="GitHub Metrics & Languages" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karaaslan-dev&theme=dark" alt="karaaslan-dev streak" />
+  <img src="./dist/github-snake-dark.svg" alt="Contribution Snake" width="100%" />
 </p>
 
 ---
