@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I am Enes</h1>
+<h1 align="center">Hi, I am Enes</h1>
 <h3 align="center">IT Enthusiast | Full-Stack Developer | Robotics & Embedded Systems</h3>
 
 <p align="center">
@@ -7,21 +7,21 @@
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
-- 👯 I am looking to collaborate on **open-source projects (web development, automation, AI, robotics, design tools, and educational tech)**.
-- 🤝 I am looking for help with **improving my skills in AI and machine learning**.
-- 🌐 Portfolio: [ekaraaslan.com](https://ekaraaslan.com/)
-- 📝 Blog: [ekaraaslandev.blogspot.com](https://ekaraaslandev.blogspot.com/)
-- 📄 Experience: [LinkedIn Profile](https://www.linkedin.com/in/ekaraaslan-bio/)
-- 📫 How to reach me: [contact@ekaraaslan.com](mailto:contact@ekaraaslan.com)
-- ⚡ Fun fact: **I play piano and bağlama, enjoy graphic design, and love building robotics projects.**
+- I am looking to collaborate on **open-source projects (web development, automation, AI, robotics, design tools, and educational tech)**.
+- I am looking for help with **improving my skills in AI and machine learning**.
+- Portfolio: [ekaraaslan.com](https://ekaraaslan.com/)
+- Blog: [ekaraaslandev.blogspot.com](https://ekaraaslandev.blogspot.com/)
+- Experience: [LinkedIn Profile](https://www.linkedin.com/in/ekaraaslan-bio/)
+- How to reach me: [contact@ekaraaslan.com](mailto:contact@ekaraaslan.com)
+- Fun fact: **I play piano and bağlama, enjoy graphic design, and love building robotics projects.**
 
 ---
 
-### 🛠️ Languages & Tools
+###  Languages & Tools
 
-#### 💻 Programming & Languages
+####  Programming & Languages
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
@@ -32,7 +32,7 @@
   <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
 </p>
 
-#### 🌐 Web & Mobile Development
+#### Web & Mobile Development
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
@@ -50,7 +50,7 @@
   <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/>
 </p>
 
-#### 🗄️ Databases & Cloud / DevOps
+#### Databases & Cloud / DevOps
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
@@ -64,7 +64,7 @@
   <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
 </p>
 
-#### 🤖 AI, Hardware & Design
+#### AI, Hardware & Design
 <p align="left">
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
@@ -78,7 +78,7 @@
 
 ---
 
-### 📊 GitHub Statistics & Contribution Activity
+### GitHub Statistics & Contribution Activity
 
 
 
@@ -95,7 +95,7 @@
 
 ---
 
-### 📫 Connect with me
+### Connect with me
 
 <p align="left">
   <a href="https://linkedin.com/in/ekaraaslan-bio" target="_blank">
@@ -114,7 +114,7 @@
 
 ---
 
-### ☕ Support Me
+### Support Me
 
 <p align="left">
   <a href="https://www.buymeacoffee.com/ekaraaslan" target="_blank">
