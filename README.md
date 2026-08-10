@@ -80,12 +80,17 @@
 
 ### GitHub Statistics & Contribution Activity
 
-
-
-
+<p align="center">
+  <!-- Güncel ve aktif sürdürülen Rickstaa GitHub Stats Extended -->
+  <img src="https://github-readme-stats-git-masterrstaa.rickstaa.dev/api?username=KULLANICI_ADIN&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="49%" />
+  
+  <!-- DenverCoder1 Güncel Streak Stats -->
+  <img src="https://streak-stats.demolab.com?user=KULLANICI_ADIN&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="49%" />
+</p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KULLANICI_ADIN&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
+  <!-- En çok kullanılan diller -->
+  <img src="https://github-readme-stats-git-masterrstaa.rickstaa.dev/api/top-langs/?username=KULLANICI_ADIN&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="40%" />
 </p>
 
 
